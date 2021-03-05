@@ -1,4 +1,4 @@
-import React, { useState, useMemo, useContext } from "react"
+import React, { useState, useMemo, useContext, useEffect } from "react"
 import { UnidadeCurricularContext } from './../contexts/UnidadeCurricularContext';
 import { getBloxes } from './../api/api';
 
@@ -6,8 +6,12 @@ const UnidadeCurricularProvider = (props: any) => {
     const [ listUnidadesCurriculares, setListUnidadesCurriculares] = useState<any[]>([]);
     const listUnidadesCurricularesMock: any[] = require('../json/curricular_units_response_example.json')
 
+    useEffect(() => {
+        fetchUnidadeCurricularData(1);
+    }, [])
 
     const fetchUnidadeCurricularData = (page: number) => {
+        setListUnidadesCurriculares([]);
         getBloxes(page).then(res => {
             setListUnidadesCurriculares(res.data)
         }).catch(error =>{

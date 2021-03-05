@@ -1,4 +1,4 @@
-import React, {useEffect} from "react";
+import React from "react";
 import { AppBar, Tab, Tabs } from "@material-ui/core";
 
 import UnidadesCurricularesStyled from './UnidadesCurricularesStyled';
@@ -30,16 +30,7 @@ function TabPanel(props: TabPanelProps) {
 
 const UnidadesCurriculares = () => {
 
-    const { fetchUnidadeCurricularData, listUnidadesCurriculares } = useUnidadeCurricularContext()
     const [value, setValue] = React.useState('lista');
-
-
-
-    useEffect(() => {
-        fetchUnidadeCurricularData(1);
-    }, [])
-
-
 
     const getTabProps = (index: string) => {
         return {
@@ -68,7 +59,9 @@ const UnidadesCurriculares = () => {
                 <ListaUnidadesCurriculares />
             </TabPanel>
             <TabPanel value={value} index={'novo'}>
-                Item Two
+                <p style={{ textAlign: "center" }}>
+                    Problema ao carregar página, tente novamente mais tarde!
+                </p>
             </TabPanel>
         </UnidadesCurricularesStyled>
     );

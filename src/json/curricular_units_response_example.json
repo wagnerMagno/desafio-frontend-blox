@@ -1,277 +1,1976 @@
 [
-    {
-       "id":5233,
-       "title":"Gestão Integral de Transportes",
-       "subtitle":"",
-       "objectives":"{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Integrar un enfoque estratégico y operativo en el participante: brindar los más efectivos conceptos y herramientas para la operación moderna del transporte en la cadena de suministros (SCM), la cadena de valor y logística. Con una exposición práctica, casos y ejercicios se encontrarán soluciones adecuadas para: Reducir costos, mejorar el desempeño, la rentabilidad y la comunicación en la operación para dar mayor valor agregado al desempeño. Así mismo será posible adecuarse a los cambios tecnológicos, la operación y los marcos legales que impactan al transporte, el cual es posiblemente uno de los factores más importantes en la operación logística.\\n\\nBeneficios\\nEl participante: 1.Desarrollará habilidades para integrar los transportes en los eslabones de su cadena de suministro y de valor, en la operación y comercio nacionales y globales de su empresa para reducir costos y mejores resultados comerciales, operativos y financieros. 2.Conocerá las mejores prácticas en la logística, transportes y la operación nacional e internacional actuales, incluyendo las TIC (Tecnologías de Información y Comunicación) en sistemas TMS/Transportation Management Systems (Gestión integral del transporte). 3.Ubicará el lenguaje, documentos y negociar los puntos clave en la operación de los transportes nacionales e internacionales: Terrestre, aéreo, marítimo e intermodal. 4.En autotransporte, aplicará el marco legal y normativo de una manera práctica a su gestión del transporte, en particular las NOM 068 y 012-SCT. 5.Tendrá las bases para el desarrollo de interfaces globales en sistemas informáticos ERP/Gestión de la planeación de los recursos de la empresa, para una mejor coordinación proveedores ? proceso - clientes, en una operación -sin papeles-.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
-       "credits":2.0,
-       "hours":96.0,
-       "status":"accepted",
-       "modality":"Presencial",
-       "url":null,
-       "legacy":false,
-       "video_url":"",
-       "code":995,
-       "tracks":[
+   {
+       "id": 5233,
+       "title": "Gestão Integral de Transportes",
+       "subtitle": "",
+       "objectives": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Integrar un enfoque estratégico y operativo en el participante: brindar los más efectivos conceptos y herramientas para la operación moderna del transporte en la cadena de suministros (SCM), la cadena de valor y logística. Con una exposición práctica, casos y ejercicios se encontrarán soluciones adecuadas para: Reducir costos, mejorar el desempeño, la rentabilidad y la comunicación en la operación para dar mayor valor agregado al desempeño. Así mismo será posible adecuarse a los cambios tecnológicos, la operación y los marcos legales que impactan al transporte, el cual es posiblemente uno de los factores más importantes en la operación logística.\\n\\nBeneficios\\nEl participante: 1.Desarrollará habilidades para integrar los transportes en los eslabones de su cadena de suministro y de valor, en la operación y comercio nacionales y globales de su empresa para reducir costos y mejores resultados comerciales, operativos y financieros. 2.Conocerá las mejores prácticas en la logística, transportes y la operación nacional e internacional actuales, incluyendo las TIC (Tecnologías de Información y Comunicación) en sistemas TMS/Transportation Management Systems (Gestión integral del transporte). 3.Ubicará el lenguaje, documentos y negociar los puntos clave en la operación de los transportes nacionales e internacionales: Terrestre, aéreo, marítimo e intermodal. 4.En autotransporte, aplicará el marco legal y normativo de una manera práctica a su gestión del transporte, en particular las NOM 068 y 012-SCT. 5.Tendrá las bases para el desarrollo de interfaces globales en sistemas informáticos ERP/Gestión de la planeación de los recursos de la empresa, para una mejor coordinación proveedores ? proceso - clientes, en una operación -sin papeles-.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 96.0,
+       "status": "accepted",
+       "modality": "Presencial",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": 995,
+       "tracks": [],
+       "created_at": "2019-12-17T21:02:39.339-03:00",
+       "updated_at": "2021-02-17T14:49:44.747-03:00",
+       "bibliography_basic": [
+           {
+               "id": 15037,
+               "name": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "file_data": null,
+               "blox_id": 5233,
+               "created_at": "2019-12-17T21:03:23.250-03:00",
+               "updated_at": "2019-12-17T21:03:23.250-03:00",
+               "kind": "basic",
+               "media": "Libros",
+               "description": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
        ],
-       "created_at":"2019-12-17T21:02:39.339-03:00",
-       "updated_at":"2021-02-17T14:49:44.747-03:00",
-       "bibliography_basic":[
-          {
-             "id":15037,
-             "name":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "file_data":null,
-             "blox_id":5233,
-             "created_at":"2019-12-17T21:03:23.250-03:00",
-             "updated_at":"2019-12-17T21:03:23.250-03:00",
-             "kind":"basic",
-             "media":"Libros",
-             "description":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "bibliography_type_id":54,
-             "extra_fields":[
-             ]
-          }
+       "bibliography_complementary": [
+           {
+               "id": 15038,
+               "name": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "file_data": null,
+               "blox_id": 5233,
+               "created_at": "2019-12-17T21:03:23.256-03:00",
+               "updated_at": "2019-12-17T21:03:23.256-03:00",
+               "kind": "complementary",
+               "media": "Sitio Web",
+               "description": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "bibliography_type_id": 55,
+               "extra_fields": []
+           }
        ],
-       "bibliography_complementary":[
-          {
-             "id":15038,
-             "name":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "file_data":null,
-             "blox_id":5233,
-             "created_at":"2019-12-17T21:03:23.256-03:00",
-             "updated_at":"2019-12-17T21:03:23.256-03:00",
-             "kind":"complementary",
-             "media":"Sitio Web",
-             "description":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "bibliography_type_id":55,
-             "extra_fields":[
-             ]
-          }
-       ],
-       "allow_ead_content":false,
-       "modality_id":57,
-       "pages":null,
-       "total":null,
-       "program":null,
-       "pedagogic_resources":null,
-       "external_id":"995",
-       "extra_fields":[
-       ],
-       "level_id":null,
-       "teaching_approach_id":null,
-       "commercial_title":null,
-       "points":null,
-       "date_limit_edition":null,
-       "date_limit_permission":false,
-       "filling_instructions":null,
-       "responsible":{
-          "id":24145,
-          "name":"Juan Martín Maldacena",
-          "username":"professor",
-          "picture_url":null,
-          "email":"bruno@berchielli.com.br",
-          "shortbio":"",
-          "lattes_curriculum":"",
-          "linked_in":""
+       "allow_ead_content": false,
+       "modality_id": 57,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": "995",
+       "extra_fields": [],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": null,
+       "date_limit_permission": false,
+       "filling_instructions": null,
+       "responsible": {
+           "id": 24145,
+           "name": "Juan Martín Maldacena",
+           "username": "professor",
+           "picture_url": null,
+           "email": "bruno@berchielli.com.br",
+           "shortbio": "",
+           "lattes_curriculum": "",
+           "linked_in": ""
        },
-       "responsibles":[
-          {
-             "id":24145,
-             "username":"professor",
-             "email":"bruno@berchielli.com.br",
-             "name":"Juan Martín Maldacena",
-             "role":"professor",
-             "institution_id":22,
-             "picture_url":null,
-             "current_course":null,
-             "shortbio":"",
-             "lattes_curriculum":"",
-             "linked_in":"",
-             "custom_links":[
-                {
-                   "id":8,
-                   "title":"Facebook",
-                   "url":"www.facebook.com/",
-                   "description":"Acessar o FB",
-                   "profiles":[
-                      "coordinator",
-                      "professor",
-                      "student"
-                   ],
-                   "is_external":true
-                }
-             ],
-             "allow_emails":true
-          }
+       "responsibles": [
+           {
+               "id": 24145,
+               "username": "professor",
+               "email": "bruno@berchielli.com.br",
+               "name": "Juan Martín Maldacena",
+               "role": "professor",
+               "institution_id": 22,
+               "picture_url": null,
+               "current_course": null,
+               "shortbio": "",
+               "lattes_curriculum": "",
+               "linked_in": "",
+               "custom_links": [
+                   {
+                       "id": 8,
+                       "title": "Facebook",
+                       "url": "www.facebook.com/",
+                       "description": "Acessar o FB",
+                       "profiles": [
+                           "coordinator",
+                           "professor",
+                           "student"
+                       ],
+                       "is_external": true
+                   }
+               ],
+               "allow_emails": true
+           }
        ],
-       "knowledge_area":{
-          "id":122,
-          "name":"Básico",
-          "description":"Gerais são aqueles que são comuns a formação de todos os candidatos, ainda que eles incluam várias áreas.",
-          "color1":"#f82637",
-          "color2":"#d31f31",
-          "color3":"#af1c31",
-          "color4":"#d31f31",
-          "icon_url":null
+       "knowledge_area": {
+           "id": 122,
+           "name": "Básico",
+           "description": "Gerais são aqueles que são comuns a formação de todos os candidatos, ainda que eles incluam várias áreas.",
+           "color1": "#f82637",
+           "color2": "#d31f31",
+           "color3": "#af1c31",
+           "color4": "#d31f31",
+           "icon_url": null
        },
-       "functional_area":{
-          "id":450,
-          "name":"Produção, Processamento e Logística",
-          "description":"Esta área funcional aborda conteúdos relacionados ao gerenciamento, transporte e armazenamento do fluxo de produtos e mercadorias dentro e fora de uma organização, bem como de topas as etapas da gestão de processos e de gestão da produção.",
-          "icon":null,
-          "icon_dark_url":"https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4bb24b1d784aa707cd0973592d86a057?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210224%2Fsa-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20210224T121340Z\u0026X-Amz-Expires=900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=209ca95d7f96f4d8136693f94963e6ae21ee8c447aec76acc72524e2238651d6",
-          "icon_white_url":"https://bloxstaging.s3.sa-east-1.amazonaws.com/store/be2e30e5b2e4271d22b8b7402c600f2a?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210224%2Fsa-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20210224T121340Z\u0026X-Amz-Expires=900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=6aaacd43d384a90d5bf07074d58c15caf374b31556ec219c1f44c7e0652f50dc"
+       "functional_area": {
+           "id": 450,
+           "name": "Produção, Processamento e Logística",
+           "description": "Esta área funcional aborda conteúdos relacionados ao gerenciamento, transporte e armazenamento do fluxo de produtos e mercadorias dentro e fora de uma organização, bem como de topas as etapas da gestão de processos e de gestão da produção.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4bb24b1d784aa707cd0973592d86a057?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=bdac4205d6edbecd2c69eddd30640c760d58dd548f85f9e4ad0ece264ccf0411",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/be2e30e5b2e4271d22b8b7402c600f2a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=05d80158dbdf23132a5ec158a1cb5260086012705c409beae878f3ccc7541d52"
        },
-       "blox_profile":{
-          "id":81,
-          "name":"Crítico",
-          "description":"",
-          "icon_url":"https://bloxstaging.s3.sa-east-1.amazonaws.com/store/865c60909675e697a5ad09c0b35ad612?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210224%2Fsa-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20210224T121340Z\u0026X-Amz-Expires=900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=980703d1db1ddec4008986dea6df69ac3c4b84677beb4d6c2e581673c09c00fc",
-          "icon_dark_url":"https://bloxstaging.s3.sa-east-1.amazonaws.com/store/3971072866bd75d316c29d27feb66de1?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210224%2Fsa-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20210224T121340Z\u0026X-Amz-Expires=900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=c592ae6f0f05dbd286bde10663f67f08d7df53108dcae1d87bc69858f4516c9d",
-          "material_icon":null
+       "blox_profile": {
+           "id": 81,
+           "name": "Crítico",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/865c60909675e697a5ad09c0b35ad612?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=25fff24268df32d3a4afe591b1e3da6398650db7ccd69c1ad4c905303da32da5",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/3971072866bd75d316c29d27feb66de1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c16a5cd8beebd86012d916b3d2a9eb6926d73b94e96797cd17f4f808863caaaa",
+           "material_icon": null
        },
-       "blox_attachments":[
-          {
-             "id":15037,
-             "name":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "media":"Libros",
-             "kind":"basic",
-             "description":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "file_url":null,
-             "extra_fields":[
-             ]
-          },
-          {
-             "id":15038,
-             "name":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "media":"Sitio Web",
-             "kind":"complementary",
-             "description":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "file_url":null,
-             "extra_fields":[
-             ]
-          }
+       "blox_attachments": [
+           {
+               "id": 15037,
+               "name": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "media": "Libros",
+               "kind": "basic",
+               "description": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 15038,
+               "name": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "media": "Sitio Web",
+               "kind": "complementary",
+               "description": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "file_url": null,
+               "extra_fields": []
+           }
        ],
-       "blox_classes":[
-          {
-             "id":28079,
-             "blox_id":5233,
-             "question":"Logística del transporte en la cadena de suministro ( 16 horas)",
-             "preparation":"",
-             "context":"Logística del transporte en la cadena de suministro\n( 16 horas)",
-             "order":1,
-             "blox_class_attachments_attributes":[
-             ],
-             "methodology_id":118,
-             "methodology":{
-                "id":118,
-                "institution_id":22,
-                "name":"Aprendizagem Colaborativa",
-                "created_at":"2019-12-17T19:44:35.914-03:00",
-                "updated_at":"2020-05-13T23:15:02.044-03:00",
-                "icon_data":null,
-                "external_data":{
-                },
-                "material_icon":"group"
-             },
-             "extra_fields":[
-             ]
-          },
-          {
-             "id":28080,
-             "blox_id":5233,
-             "question":"Tráfico y distribución ( 16 horas)",
-             "preparation":"",
-             "context":"Tráfico y distribución\n( 16 horas)",
-             "order":2,
-             "blox_class_attachments_attributes":[
-             ],
-             "methodology_id":120,
-             "methodology":{
-                "id":120,
-                "institution_id":22,
-                "name":"Aprendizagem Baseada em Projetos",
-                "created_at":"2019-12-17T19:46:17.267-03:00",
-                "updated_at":"2020-05-13T23:15:19.829-03:00",
-                "icon_data":null,
-                "external_data":{
-                },
-                "material_icon":"content_paste"
-             },
-             "extra_fields":[
-             ]
-          },
-          {
-             "id":28081,
-             "blox_id":5233,
-             "question":"Autotransporte, operación y marco normativo ( 16 horas)",
-             "preparation":"",
-             "context":"Autotransporte, operación y marco normativo\n( 16 horas)",
-             "order":3,
-             "blox_class_attachments_attributes":[
-             ],
-             "methodology_id":118,
-             "methodology":{
-                "id":118,
-                "institution_id":22,
-                "name":"Aprendizagem Colaborativa",
-                "created_at":"2019-12-17T19:44:35.914-03:00",
-                "updated_at":"2020-05-13T23:15:02.044-03:00",
-                "icon_data":null,
-                "external_data":{
-                },
-                "material_icon":"group"
-             },
-             "extra_fields":[
-             ]
-          },
-          {
-             "id":28082,
-             "blox_id":5233,
-             "question":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte ( 16 horas)",
-             "preparation":"",
-             "context":"Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
-             "order":4,
-             "blox_class_attachments_attributes":[
-             ],
-             "methodology_id":119,
-             "methodology":{
-                "id":119,
-                "institution_id":22,
-                "name":"Estudos de Caso",
-                "created_at":"2019-12-17T19:45:15.056-03:00",
-                "updated_at":"2020-05-13T23:15:28.713-03:00",
-                "icon_data":null,
-                "external_data":{
-                },
-                "material_icon":"chrome_reader_mode"
-             },
-             "extra_fields":[
-             ]
-          }
+       "blox_classes": [
+           {
+               "id": 28079,
+               "blox_id": 5233,
+               "question": "Logística del transporte en la cadena de suministro ( 16 horas)",
+               "preparation": "",
+               "context": "Logística del transporte en la cadena de suministro\n( 16 horas)",
+               "order": 1,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 118,
+               "methodology": {
+                   "id": 118,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Colaborativa",
+                   "created_at": "2019-12-17T19:44:35.914-03:00",
+                   "updated_at": "2020-05-13T23:15:02.044-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "group"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28080,
+               "blox_id": 5233,
+               "question": "Tráfico y distribución ( 16 horas)",
+               "preparation": "",
+               "context": "Tráfico y distribución\n( 16 horas)",
+               "order": 2,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 120,
+               "methodology": {
+                   "id": 120,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Projetos",
+                   "created_at": "2019-12-17T19:46:17.267-03:00",
+                   "updated_at": "2020-05-13T23:15:19.829-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "content_paste"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28081,
+               "blox_id": 5233,
+               "question": "Autotransporte, operación y marco normativo ( 16 horas)",
+               "preparation": "",
+               "context": "Autotransporte, operación y marco normativo\n( 16 horas)",
+               "order": 3,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 118,
+               "methodology": {
+                   "id": 118,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Colaborativa",
+                   "created_at": "2019-12-17T19:44:35.914-03:00",
+                   "updated_at": "2020-05-13T23:15:02.044-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "group"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28082,
+               "blox_id": 5233,
+               "question": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte ( 16 horas)",
+               "preparation": "",
+               "context": "Aspectos financieros clave, y tecnologías de la información (TIC), aplicadas a la gestión del autotransporte\n( 16 horas)",
+               "order": 4,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           }
        ],
-       "competences":[
-          {
-             "id":303,
-             "name":"Transformação Digital",
-             "description":"Transformação Digital é um processo em que as empresas utilizam a tecnologia para melhorar seu desempenho, ampliar seu alcance e otimizar os resultados. Essa transformação gera uma mudança de mindset em toda a empresa, tanto internamente quanto externamente, para os clientes.",
-             "icon_url":"https://bloxstaging.s3.sa-east-1.amazonaws.com/store/711e96993abb5072db3450720ef5417a?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210224%2Fsa-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20210224T121340Z\u0026X-Amz-Expires=900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=7f54633029b77233adba41c2188915344c8594c6a7e778c3f1329a8edbb6ea8c"
-          },
-          {
-             "id":301,
-             "name":"Ética e Cidadania",
-             "description":"Ética e cidadania são dois conceitos fulcrais na sociedade humana. A ética e cidadania estão relacionados com as atitudes dos indivíduos e a forma como estes interagem uns com os outros na sociedade.",
-             "icon_url":"https://bloxstaging.s3.sa-east-1.amazonaws.com/store/0334495db604c720edef7aa9eaba7a09?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210224%2Fsa-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20210224T121340Z\u0026X-Amz-Expires=900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=ff49b52e292b1cdc9b6b1e1814efbb3b854cd22644e39f66fe3d00e07290dbef"
-          },
-          {
-             "id":302,
-             "name":"Criatividade",
-             "description":"Criatividade é o substantivo feminino com origem no latim creare, que indica a capacidade de criar, produzir ou inventar coisas novas.",
-             "icon_url":"https://bloxstaging.s3.sa-east-1.amazonaws.com/store/57b6ef54670fc7fad95258a30fd1ea75?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210224%2Fsa-east-1%2Fs3%2Faws4_request\u0026X-Amz-Date=20210224T121340Z\u0026X-Amz-Expires=900\u0026X-Amz-SignedHeaders=host\u0026X-Amz-Signature=2222e1f0ca1e5f7fb91fee39a385b291a06fcf062a433228c20b586f28785ed7"
-          }
+       "competences": [
+           {
+               "id": 303,
+               "name": "Transformação Digital",
+               "description": "Transformação Digital é um processo em que as empresas utilizam a tecnologia para melhorar seu desempenho, ampliar seu alcance e otimizar os resultados. Essa transformação gera uma mudança de mindset em toda a empresa, tanto internamente quanto externamente, para os clientes.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/711e96993abb5072db3450720ef5417a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=0e06898e2bc897f30c8aa607aad9e742656026bc58d58d758143edbc0b7dfe6e"
+           },
+           {
+               "id": 301,
+               "name": "Ética e Cidadania",
+               "description": "Ética e cidadania são dois conceitos fulcrais na sociedade humana. A ética e cidadania estão relacionados com as atitudes dos indivíduos e a forma como estes interagem uns com os outros na sociedade.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/0334495db604c720edef7aa9eaba7a09?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=cfe26f83416a87dc878c8cfd00f8521ae5250268496623b74e9ba59b5026b461"
+           },
+           {
+               "id": 302,
+               "name": "Criatividade",
+               "description": "Criatividade é o substantivo feminino com origem no latim creare, que indica a capacidade de criar, produzir ou inventar coisas novas.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/57b6ef54670fc7fad95258a30fd1ea75?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1881747e9cef712b89b0dea20d1d5265df722bae8fb11ac19644f6cde7b66bc5"
+           }
        ],
-       "blox_evaluations":[
+       "blox_evaluations": [],
+       "blox_template": null
+   },
+   {
+       "id": 5227,
+       "title": "Competências do Liderança Motivacional",
+       "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+       "objectives": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Diseñar soluciones estratégicas innovadoras y flexibles que fortalezcan a la organización y al bienestar de sus colaboradores en un contexto de cara a la era digital.\\n\\nBeneficios\\nEvolución del liderazgo de cada persona hacia una mejor interacción con el capital humano que forma parte de su equipo de trabajo y de sus organizaciones con su contexto, así como su relación con el éxito en la gestión desempeñada. ssd\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 106.0,
+       "status": "archived",
+       "modality": "EAD",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": 2714,
+       "tracks": [],
+       "created_at": "2019-12-17T20:40:59.633-03:00",
+       "updated_at": "2021-02-17T14:04:40.877-03:00",
+       "bibliography_basic": [
+           {
+               "id": 15025,
+               "name": "Valores, comunicación e integración estratégica multigeneracional.",
+               "file_data": null,
+               "blox_id": 5227,
+               "created_at": "2019-12-17T20:41:54.169-03:00",
+               "updated_at": "2019-12-17T20:41:54.169-03:00",
+               "kind": "basic",
+               "media": "Sitio Web",
+               "description": "Valores, comunicación e integración estratégica multigeneracional.",
+               "bibliography_type_id": 55,
+               "extra_fields": []
+           }
        ],
-       "blox_template":null
-    }
- ]
+       "bibliography_complementary": [
+           {
+               "id": 15026,
+               "name": "Valores, comunicación e integración estratégica multigeneracional.",
+               "file_data": null,
+               "blox_id": 5227,
+               "created_at": "2019-12-17T20:41:54.174-03:00",
+               "updated_at": "2019-12-17T20:41:54.174-03:00",
+               "kind": "complementary",
+               "media": "Libros",
+               "description": "Valores, comunicación e integración estratégica multigeneracional.",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
+       ],
+       "allow_ead_content": true,
+       "modality_id": 58,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": "2714",
+       "extra_fields": [
+           {
+               "name": "Skill",
+               "value": "{\"blocks\":[{\"key\":\"eifu2\",\"text\":\"2\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+           },
+           {
+               "name": "Habilities",
+               "value": [
+                   "Hab2",
+                   "Hab3"
+               ]
+           },
+           {
+               "name": "classes[0].How long the class takes",
+               "value": "asaddas"
+           },
+           {
+               "name": "classes[1].How long the class takes",
+               "value": "asdasdsa"
+           },
+           {
+               "name": "classes[2].How long the class takes",
+               "value": "asdasd"
+           },
+           {
+               "name": "classes[3].How long the class takes",
+               "value": "asdasd"
+           }
+       ],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": "2021-03-09",
+       "date_limit_permission": true,
+       "filling_instructions": "Rever classificação de área funcional e preencher as ementas conforme...",
+       "responsible": {
+           "id": 24145,
+           "name": "Juan Martín Maldacena",
+           "username": "professor",
+           "picture_url": null,
+           "email": "bruno@berchielli.com.br",
+           "shortbio": "",
+           "lattes_curriculum": "",
+           "linked_in": ""
+       },
+       "responsibles": [
+           {
+               "id": 24145,
+               "username": "professor",
+               "email": "bruno@berchielli.com.br",
+               "name": "Juan Martín Maldacena",
+               "role": "professor",
+               "institution_id": 22,
+               "picture_url": null,
+               "current_course": null,
+               "shortbio": "",
+               "lattes_curriculum": "",
+               "linked_in": "",
+               "custom_links": [
+                   {
+                       "id": 8,
+                       "title": "Facebook",
+                       "url": "www.facebook.com/",
+                       "description": "Acessar o FB",
+                       "profiles": [
+                           "coordinator",
+                           "professor",
+                           "student"
+                       ],
+                       "is_external": true
+                   }
+               ],
+               "allow_emails": true
+           }
+       ],
+       "knowledge_area": {
+           "id": 121,
+           "name": "Quantitativo",
+           "description": "Os quantitativos são aqueles que empregam a quantificação tanto na coleta de informações, quanto no tratamento delas por meio de técnicas estatísticas",
+           "color1": "#35c2e3",
+           "color2": "#30addd",
+           "color3": "#2999bf",
+           "color4": "#30addd",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 444,
+           "name": "Liderança e Autodesenvolvimento",
+           "description": "Esta área funcional trata de assuntos relacionados ao desenvolvimento de soft skills e outras habilidades do século XXI imprescindíveis para o mundo corporativo atual, bem como aborda tópicos sobre reconhecimento de potenciais, autoconhecimento e autodesenvolvimento, liderança, entre outros.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/bb0d84e64e9bd0b15dea01a8110eac18?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8543526e98187266476c76a30f101810789769d180dd823914a38b7e5004c668",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/c00bf83b28867355c2b6217755f2d3b6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=cfab28d8517990e0a1a4a7144ca94ef7e9c7cf8f865f0dfa86bd56771889394a"
+       },
+       "blox_profile": {
+           "id": 83,
+           "name": "Teórico",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/216c2af5f1a8c94f7b997e66f505556e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=3ccf72a4faf7dddd944d767444c5d10a18bd661d5c961430aebaa117b316ac6f",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/ebd2ec9cf39fc69119f82d9dfd2c713a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=75a162fbfc93c10460ea37f0b609cb23dd5482feedaeccbe5b744e515ce7080d",
+           "material_icon": null
+       },
+       "blox_attachments": [
+           {
+               "id": 15026,
+               "name": "Valores, comunicación e integración estratégica multigeneracional.",
+               "media": "Libros",
+               "kind": "complementary",
+               "description": "Valores, comunicación e integración estratégica multigeneracional.",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 15025,
+               "name": "Valores, comunicación e integración estratégica multigeneracional.",
+               "media": "Sitio Web",
+               "kind": "basic",
+               "description": "Valores, comunicación e integración estratégica multigeneracional.",
+               "file_url": null,
+               "extra_fields": []
+           }
+       ],
+       "blox_classes": [
+           {
+               "id": 28056,
+               "blox_id": 5227,
+               "question": "Tendencias globales y su impacto en los negocios de América Latina.",
+               "preparation": "",
+               "context": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "order": 1,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 121,
+               "methodology": {
+                   "id": 121,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Problemas (PBL)",
+                   "created_at": "2019-12-17T19:47:15.223-03:00",
+                   "updated_at": "2020-05-13T23:14:51.406-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "compare_arrows"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28058,
+               "blox_id": 5227,
+               "question": "Herramientas de diagnóstico y transformación de la cultura organizacional.",
+               "preparation": "",
+               "context": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Herramientas de diagnóstico y transformación de la cultura organizacional.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "order": 3,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 120,
+               "methodology": {
+                   "id": 120,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Projetos",
+                   "created_at": "2019-12-17T19:46:17.267-03:00",
+                   "updated_at": "2020-05-13T23:15:19.829-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "content_paste"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28059,
+               "blox_id": 5227,
+               "question": "Herramientas para la toma de decisiones en la era digital.",
+               "preparation": "",
+               "context": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Herramientas para la toma de decisiones en la era digital.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "order": 4,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 120,
+               "methodology": {
+                   "id": 120,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Projetos",
+                   "created_at": "2019-12-17T19:46:17.267-03:00",
+                   "updated_at": "2020-05-13T23:15:19.829-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "content_paste"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28060,
+               "blox_id": 5227,
+               "question": "Valores, comunicación e integración estratégica multigeneracional.",
+               "preparation": "",
+               "context": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Valores, comunicación e integración estratégica multigeneracional.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "order": 5,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           }
+       ],
+       "competences": [
+           {
+               "id": 300,
+               "name": "Inteligencia social",
+               "description": "Saber relacionarse e interactuar con otras personas y culturas, además de saber negociar.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/b7a9119dde9b697bb94cc95784f96784?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1a7b2eb30803676cb19024f687194ef9a192be7497aca8a19f983fe6d8482074"
+           },
+           {
+               "id": 299,
+               "name": "Empreendedorismo",
+               "description": "Empreendedorismo é o processo de iniciativa de implementar novos negócios ou mudanças em empresas já existentes. É um termo muito usado no âmbito empresarial e muitas vezes está relacionado com a criação de empresas ou produtos novos, normalmente envolvendo inovações e riscos.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4c67fabb7ce74d78fde67262b5b4bca7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=256a2589abcd52378d3a4580bdad3c6f4d4d9647d4943294a467718a36b0ce5a"
+           },
+           {
+               "id": 303,
+               "name": "Transformação Digital",
+               "description": "Transformação Digital é um processo em que as empresas utilizam a tecnologia para melhorar seu desempenho, ampliar seu alcance e otimizar os resultados. Essa transformação gera uma mudança de mindset em toda a empresa, tanto internamente quanto externamente, para os clientes.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/711e96993abb5072db3450720ef5417a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=0e06898e2bc897f30c8aa607aad9e742656026bc58d58d758143edbc0b7dfe6e"
+           }
+       ],
+       "blox_evaluations": [],
+       "blox_template": {
+           "id": 10,
+           "name": "BTEC framework",
+           "status": "active",
+           "blox_classes": {},
+           "blox_evaluations": {},
+           "blox_bibliographies": {}
+       }
+   },
+   {
+       "id": 5234,
+       "title": "Marketing para Farmacêuticas",
+       "subtitle": "",
+       "objectives": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Capacitar a los participantes para desempeñar con éxito la función de mercadotecnia en la industria farmacéutica con operaciones en México.\\n\\nBeneficios\\nEl participante obtendrá las bases necesarias para desarrollar estrategias, tácticas y planes de acción mejor enfocados, más rentables y de mayor alcance comercial en su tarea de satisfacer las necesidades del mercado farmacéutico a través de, por lo menos, cinco elementos que podrá adquirir en este diplomado:\\n\\n1) Un claro entendimiento de las tendencias y retos del mercado farmacéutico, sus retos y oportunidades.\\n\\n2) El conocimiento del papel que desempeñan los principales actores del ámbito farmacéutico nacional y su interacción en las diferentes etapas del proceso comercial correspondiente.\\n\\n3) Un manejo efectivo de las herramientas numéricas que le permitan evaluar con objetividad los proyectos y proponer estrategias rentables.\\n\\n4) Una visión diferente, moderna y muy práctica del potencial que tienen las áreas de apoyo a la mercadotecnia y ventas así como la manera de obtener mayor provecho de ellas.\\n\\n5) Una visión estratégica del mercado farmacéutico, de los principales segmentos y nichos, para la elaboración del plan estratégico de mercadotecnia.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 139.0,
+       "status": "pending",
+       "modality": "Presencial",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": 547,
+       "tracks": [],
+       "created_at": "2019-12-17T21:05:04.084-03:00",
+       "updated_at": "2021-02-16T22:34:40.339-03:00",
+       "bibliography_basic": [
+           {
+               "id": 15039,
+               "name": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "file_data": null,
+               "blox_id": 5234,
+               "created_at": "2019-12-17T21:06:27.560-03:00",
+               "updated_at": "2019-12-17T21:06:27.560-03:00",
+               "kind": "basic",
+               "media": "Libros",
+               "description": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
+       ],
+       "bibliography_complementary": [
+           {
+               "id": 15040,
+               "name": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "file_data": null,
+               "blox_id": 5234,
+               "created_at": "2019-12-17T21:06:27.568-03:00",
+               "updated_at": "2019-12-17T21:06:27.568-03:00",
+               "kind": "complementary",
+               "media": "Sitio Web",
+               "description": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "bibliography_type_id": 55,
+               "extra_fields": []
+           }
+       ],
+       "allow_ead_content": false,
+       "modality_id": 57,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": "547",
+       "extra_fields": [],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": null,
+       "date_limit_permission": null,
+       "filling_instructions": null,
+       "responsible": {
+           "id": 24145,
+           "name": "Juan Martín Maldacena",
+           "username": "professor",
+           "picture_url": null,
+           "email": "bruno@berchielli.com.br",
+           "shortbio": "",
+           "lattes_curriculum": "",
+           "linked_in": ""
+       },
+       "responsibles": [],
+       "knowledge_area": {
+           "id": 123,
+           "name": "Complementar",
+           "description": "Em teoria dos conjuntos, o complementar de um subconjunto se refere a elementos que não estão no conjunto. Normalmente, o complementar se trata de maneira relativa à um conjunto universo, sendo o conjunto o complementar de formado pelos elementos de que não pertencem",
+           "color1": "#55be54",
+           "color2": "#44b34f",
+           "color3": "#349b4a",
+           "color4": "#44b34f",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 453,
+           "name": "Meio Ambiente e Sustentabilidade",
+           "description": "Esta área funcional trata de conteúdos de ciências ambientais, sustentabilidade, gestão ambiental, responsabilidade e preservação do meio ambiente e saneamento básico.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/92f42cd2a7ec815b25c3aa060f19c060?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=0cf1d9b62a0741f27ad98fe774ea15db820480e3b65434c1cf254afff0e5bd76",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/33e1b22187e0f745e6ae01ef877bfb17?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=513a829f29d153289e833be2efbcb5ac0855b58c912728b145b7f6c4774bf76c"
+       },
+       "blox_profile": {
+           "id": 81,
+           "name": "Crítico",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/865c60909675e697a5ad09c0b35ad612?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=25fff24268df32d3a4afe591b1e3da6398650db7ccd69c1ad4c905303da32da5",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/3971072866bd75d316c29d27feb66de1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c16a5cd8beebd86012d916b3d2a9eb6926d73b94e96797cd17f4f808863caaaa",
+           "material_icon": null
+       },
+       "blox_attachments": [
+           {
+               "id": 15039,
+               "name": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "media": "Libros",
+               "kind": "basic",
+               "description": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 15040,
+               "name": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "media": "Sitio Web",
+               "kind": "complementary",
+               "description": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "file_url": null,
+               "extra_fields": []
+           }
+       ],
+       "blox_classes": [
+           {
+               "id": 28083,
+               "blox_id": 5234,
+               "question": "Propedéutica y diagnosis de la mercadotecnia farmacéutica ( 20 horas)",
+               "preparation": "",
+               "context": "Propedéutica y diagnosis de la mercadotecnia farmacéutica\n( 20 horas)",
+               "order": 1,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 118,
+               "methodology": {
+                   "id": 118,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Colaborativa",
+                   "created_at": "2019-12-17T19:44:35.914-03:00",
+                   "updated_at": "2020-05-13T23:15:02.044-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "group"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28084,
+               "blox_id": 5234,
+               "question": "Inteligencia comercial en la industria farmacéutica ( 20 horas)",
+               "preparation": "",
+               "context": "Inteligencia comercial en la industria farmacéutica\n( 20 horas)",
+               "order": 2,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28085,
+               "blox_id": 5234,
+               "question": "Efectividad de fuerza de ventas (SFE) ( 10 horas)",
+               "preparation": "",
+               "context": "Efectividad de fuerza de ventas (SFE)\n( 10 horas)",
+               "order": 3,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28086,
+               "blox_id": 5234,
+               "question": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital ( 20 horas)",
+               "preparation": "",
+               "context": "Construcción de marca en la mercadotecnia farmacéutica y marketing digital\n( 20 horas)",
+               "order": 4,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 121,
+               "methodology": {
+                   "id": 121,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Problemas (PBL)",
+                   "created_at": "2019-12-17T19:47:15.223-03:00",
+                   "updated_at": "2020-05-13T23:14:51.406-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "compare_arrows"
+               },
+               "extra_fields": []
+           }
+       ],
+       "competences": [
+           {
+               "id": 299,
+               "name": "Empreendedorismo",
+               "description": "Empreendedorismo é o processo de iniciativa de implementar novos negócios ou mudanças em empresas já existentes. É um termo muito usado no âmbito empresarial e muitas vezes está relacionado com a criação de empresas ou produtos novos, normalmente envolvendo inovações e riscos.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4c67fabb7ce74d78fde67262b5b4bca7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=256a2589abcd52378d3a4580bdad3c6f4d4d9647d4943294a467718a36b0ce5a"
+           },
+           {
+               "id": 302,
+               "name": "Criatividade",
+               "description": "Criatividade é o substantivo feminino com origem no latim creare, que indica a capacidade de criar, produzir ou inventar coisas novas.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/57b6ef54670fc7fad95258a30fd1ea75?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=1881747e9cef712b89b0dea20d1d5265df722bae8fb11ac19644f6cde7b66bc5"
+           },
+           {
+               "id": 298,
+               "name": "Autoconhecimento",
+               "description": "Uma pessoa consciente de si mesma e de seus pensamentos, consegue identificar suas forças e fraquezas e trabalhar com foco para se desenvolver constantemente. Por isso, na maioria das vezes, buscar o autoconhecimento é o primeiro passo para ter uma vida profissional mais bem sucedida e saudável.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/081c2e871011b71cb313a3492832a16b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=74c35361f7275e8ec037d4e725bec3614bf326f7f3b9e8204e7980c4f797b80d"
+           }
+       ],
+       "blox_evaluations": [],
+       "blox_template": null
+   },
+   {
+       "id": 16742,
+       "title": "Teste Bruno 2 09/02/2021",
+       "subtitle": "teste",
+       "objectives": "{\"blocks\":[{\"key\":\"3ap50\",\"text\":\"241421\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 2332.0,
+       "status": "archived",
+       "modality": "Presencial",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": null,
+       "tracks": [],
+       "created_at": "2021-02-09T08:39:17.996-03:00",
+       "updated_at": "2021-02-16T18:51:58.351-03:00",
+       "bibliography_basic": [],
+       "bibliography_complementary": [],
+       "allow_ead_content": false,
+       "modality_id": 57,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": 16742,
+       "extra_fields": [],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": null,
+       "date_limit_permission": null,
+       "filling_instructions": null,
+       "responsible": {
+           "id": null,
+           "name": "Professor desconhecido"
+       },
+       "responsibles": [
+           {
+               "id": 24145,
+               "username": "professor",
+               "email": "bruno@berchielli.com.br",
+               "name": "Juan Martín Maldacena",
+               "role": "professor",
+               "institution_id": 22,
+               "picture_url": null,
+               "current_course": null,
+               "shortbio": "",
+               "lattes_curriculum": "",
+               "linked_in": "",
+               "custom_links": [
+                   {
+                       "id": 8,
+                       "title": "Facebook",
+                       "url": "www.facebook.com/",
+                       "description": "Acessar o FB",
+                       "profiles": [
+                           "coordinator",
+                           "professor",
+                           "student"
+                       ],
+                       "is_external": true
+                   }
+               ],
+               "allow_emails": true
+           }
+       ],
+       "knowledge_area": {
+           "id": 123,
+           "name": "Complementar",
+           "description": "Em teoria dos conjuntos, o complementar de um subconjunto se refere a elementos que não estão no conjunto. Normalmente, o complementar se trata de maneira relativa à um conjunto universo, sendo o conjunto o complementar de formado pelos elementos de que não pertencem",
+           "color1": "#55be54",
+           "color2": "#44b34f",
+           "color3": "#349b4a",
+           "color4": "#44b34f",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 530,
+           "name": "Direito",
+           "description": "Esta área funcional aborda conteúdos relacionados a todos os ramos do Direito e trata dos princípios e procedimentos formais para a manutenção da ordem social, incluindo a prática das profissões jurídicas, como a advocacia ou a magistratura.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/424d5e97026031e3a266759e3b0aef1a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8f2f7296ad29fff4a70ddc282e254ce1d566cbae3d9f73156c12b0593a8aa016",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/ba84e03faa255a654e3fdaabc4852cb2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d45e6a761c059a4f1bac8511146d589968a6b542f23623cf9828c0add865ca00"
+       },
+       "blox_profile": {
+           "id": 83,
+           "name": "Teórico",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/216c2af5f1a8c94f7b997e66f505556e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=3ccf72a4faf7dddd944d767444c5d10a18bd661d5c961430aebaa117b316ac6f",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/ebd2ec9cf39fc69119f82d9dfd2c713a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=75a162fbfc93c10460ea37f0b609cb23dd5482feedaeccbe5b744e515ce7080d",
+           "material_icon": null
+       },
+       "blox_attachments": [],
+       "blox_classes": [],
+       "competences": [
+           {
+               "id": 299,
+               "name": "Empreendedorismo",
+               "description": "Empreendedorismo é o processo de iniciativa de implementar novos negócios ou mudanças em empresas já existentes. É um termo muito usado no âmbito empresarial e muitas vezes está relacionado com a criação de empresas ou produtos novos, normalmente envolvendo inovações e riscos.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4c67fabb7ce74d78fde67262b5b4bca7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=256a2589abcd52378d3a4580bdad3c6f4d4d9647d4943294a467718a36b0ce5a"
+           },
+           {
+               "id": 301,
+               "name": "Ética e Cidadania",
+               "description": "Ética e cidadania são dois conceitos fulcrais na sociedade humana. A ética e cidadania estão relacionados com as atitudes dos indivíduos e a forma como estes interagem uns com os outros na sociedade.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/0334495db604c720edef7aa9eaba7a09?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=cfe26f83416a87dc878c8cfd00f8521ae5250268496623b74e9ba59b5026b461"
+           }
+       ],
+       "blox_evaluations": [],
+       "blox_template": null
+   },
+   {
+       "id": 16741,
+       "title": "Teste Bruno 09/02/2021",
+       "subtitle": "Teste 1",
+       "objectives": "{\"blocks\":[{\"key\":\"5a3ef\",\"text\":\"teste 333\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 10.0,
+       "status": "review",
+       "modality": "Presencial",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": null,
+       "tracks": [],
+       "created_at": "2021-02-09T08:38:35.091-03:00",
+       "updated_at": "2021-02-09T08:42:20.330-03:00",
+       "bibliography_basic": [
+           {
+               "id": 55912,
+               "name": "asdads",
+               "file_data": null,
+               "blox_id": 16741,
+               "created_at": "2021-02-09T08:41:42.255-03:00",
+               "updated_at": "2021-02-09T08:41:42.255-03:00",
+               "kind": "basic",
+               "media": "Site",
+               "description": "asdads",
+               "bibliography_type_id": 55,
+               "extra_fields": []
+           }
+       ],
+       "bibliography_complementary": [],
+       "allow_ead_content": false,
+       "modality_id": 57,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": 16741,
+       "extra_fields": [],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": null,
+       "date_limit_permission": null,
+       "filling_instructions": null,
+       "responsible": {
+           "id": null,
+           "name": "Professor desconhecido"
+       },
+       "responsibles": [
+           {
+               "id": 24145,
+               "username": "professor",
+               "email": "bruno@berchielli.com.br",
+               "name": "Juan Martín Maldacena",
+               "role": "professor",
+               "institution_id": 22,
+               "picture_url": null,
+               "current_course": null,
+               "shortbio": "",
+               "lattes_curriculum": "",
+               "linked_in": "",
+               "custom_links": [
+                   {
+                       "id": 8,
+                       "title": "Facebook",
+                       "url": "www.facebook.com/",
+                       "description": "Acessar o FB",
+                       "profiles": [
+                           "coordinator",
+                           "professor",
+                           "student"
+                       ],
+                       "is_external": true
+                   }
+               ],
+               "allow_emails": true
+           }
+       ],
+       "knowledge_area": {
+           "id": 121,
+           "name": "Quantitativo",
+           "description": "Os quantitativos são aqueles que empregam a quantificação tanto na coleta de informações, quanto no tratamento delas por meio de técnicas estatísticas",
+           "color1": "#35c2e3",
+           "color2": "#30addd",
+           "color3": "#2999bf",
+           "color4": "#30addd",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 536,
+           "name": "Educação e Aprendizado",
+           "description": "Esta área funcional trata de estudos da teoria pedagógica, combinado com prática de ensino, sem especialização em ensino básico, ensino de conteúdo temático especial e ensino profissional, bem como de processos de aprendizagem e teorias, métodos e técnicas que permitem transmitir conhecimentos, avaliação de desempenho, testes e medidas educacionais.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/0f25acb252605e917708ea62ee87cd63?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8d9e9e451f6cd0203bd1ffca11735f36c6aa1b22d7d281913fe8cb577259a338",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/cf834444290807e8825fb1d403ad95b3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a4c1423334c0142e06523f7422fad6fd047d77a0e3b943e8f0256cb34f6c0c48"
+       },
+       "blox_profile": {
+           "id": 82,
+           "name": "Prático",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/2e78762def1d6ee8552bb35b2575a42d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7d8dfebca1f47a4c0869a58f5c539168e4b66035395b24a2c7f0eb706da379ff",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/637ea2c63ce799e49d181a411dd9d10f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=821ba2c7a68859064063da8afbf4ca29697c5ef05f9df37ef4508ed06392cdea",
+           "material_icon": null
+       },
+       "blox_attachments": [
+           {
+               "id": 55912,
+               "name": "asdads",
+               "media": "Site",
+               "kind": "basic",
+               "description": "asdads",
+               "file_url": null,
+               "extra_fields": []
+           }
+       ],
+       "blox_classes": [
+           {
+               "id": 36948,
+               "blox_id": 16741,
+               "question": "Teste Bruno",
+               "preparation": "teste",
+               "context": "{\"blocks\":[{\"key\":\"4k9od\",\"text\":\"teste\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "order": 1,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 120,
+               "methodology": {
+                   "id": 120,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Projetos",
+                   "created_at": "2019-12-17T19:46:17.267-03:00",
+                   "updated_at": "2020-05-13T23:15:19.829-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "content_paste"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 36949,
+               "blox_id": 16741,
+               "question": "Teste 2",
+               "preparation": "242",
+               "context": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"4243432\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "order": 2,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 120,
+               "methodology": {
+                   "id": 120,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Projetos",
+                   "created_at": "2019-12-17T19:46:17.267-03:00",
+                   "updated_at": "2020-05-13T23:15:19.829-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "content_paste"
+               },
+               "extra_fields": []
+           }
+       ],
+       "competences": [
+           {
+               "id": 299,
+               "name": "Empreendedorismo",
+               "description": "Empreendedorismo é o processo de iniciativa de implementar novos negócios ou mudanças em empresas já existentes. É um termo muito usado no âmbito empresarial e muitas vezes está relacionado com a criação de empresas ou produtos novos, normalmente envolvendo inovações e riscos.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4c67fabb7ce74d78fde67262b5b4bca7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=256a2589abcd52378d3a4580bdad3c6f4d4d9647d4943294a467718a36b0ce5a"
+           }
+       ],
+       "blox_evaluations": [
+           {
+               "id": 4843,
+               "name": "Avaliação de Aprendizagem",
+               "content": "{\"blocks\":[{\"key\":\"esonc\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "blox_id": 16741,
+               "extra_fields": []
+           }
+       ],
+       "blox_template": null
+   },
+   {
+       "id": 5229,
+       "title": "Corporate Tax",
+       "subtitle": "",
+       "objectives": "{\"blocks\":[{\"key\":\"dek2k\",\"text\":\"Los participantes obtendrán un marco integral de conocimientos teóricos y prácticos sobre leyes, reglamentos, normatividad y criterios tributarios que les permitan interpretar y aplicar las principales disposiciones fiscales que regulan las actividades empresariales, facilitando el cumplimiento efectivo de sus obligaciones dentro de un marco legal vigente.\\n\\nBeneficios\\nLos participantes obtendrán: \\n\\n1.    Una formación y actualización especializada en materia fiscal bajo un marco legal vigente. \\n\\n2.    Una visión ejecutiva de negocios desde un ámbito fiscal.\\n\\n3.    Conocimientos teóricos y prácticos sobre leyes, reglamentos y criterios fiscales que podrá implementar de forma inmediata\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 120.0,
+       "status": "review",
+       "modality": "EAD",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": 7216,
+       "tracks": [],
+       "created_at": "2019-12-17T20:47:43.795-03:00",
+       "updated_at": "2021-02-09T08:17:57.712-03:00",
+       "bibliography_basic": [
+           {
+               "id": 15029,
+               "name": "Impuestos al comercio exterior",
+               "file_data": null,
+               "blox_id": 5229,
+               "created_at": "2019-12-17T20:48:46.516-03:00",
+               "updated_at": "2019-12-17T20:48:46.516-03:00",
+               "kind": "basic",
+               "media": "Libros",
+               "description": "Impuestos al comercio exterior",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
+       ],
+       "bibliography_complementary": [
+           {
+               "id": 15030,
+               "name": "Impuestos al comercio exterior",
+               "file_data": null,
+               "blox_id": 5229,
+               "created_at": "2019-12-17T20:48:46.521-03:00",
+               "updated_at": "2019-12-17T20:48:46.521-03:00",
+               "kind": "complementary",
+               "media": "Libros",
+               "description": "Impuestos al comercio exterior",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
+       ],
+       "allow_ead_content": true,
+       "modality_id": 58,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": "7216",
+       "extra_fields": [],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": "2021-02-06",
+       "date_limit_permission": false,
+       "filling_instructions": "teste",
+       "responsible": {
+           "id": 24145,
+           "name": "Juan Martín Maldacena",
+           "username": "professor",
+           "picture_url": null,
+           "email": "bruno@berchielli.com.br",
+           "shortbio": "",
+           "lattes_curriculum": "",
+           "linked_in": ""
+       },
+       "responsibles": [
+           {
+               "id": 24145,
+               "username": "professor",
+               "email": "bruno@berchielli.com.br",
+               "name": "Juan Martín Maldacena",
+               "role": "professor",
+               "institution_id": 22,
+               "picture_url": null,
+               "current_course": null,
+               "shortbio": "",
+               "lattes_curriculum": "",
+               "linked_in": "",
+               "custom_links": [
+                   {
+                       "id": 8,
+                       "title": "Facebook",
+                       "url": "www.facebook.com/",
+                       "description": "Acessar o FB",
+                       "profiles": [
+                           "coordinator",
+                           "professor",
+                           "student"
+                       ],
+                       "is_external": true
+                   }
+               ],
+               "allow_emails": true
+           }
+       ],
+       "knowledge_area": {
+           "id": 144,
+           "name": "Técnico",
+           "description": "Uma técnica é um procedimento que tem como objetivo a obtenção de um determinado resultado, seja na ciência, na tecnologia, na arte ou em qualquer outra área. Por outras palavras, uma técnica é um conjunto de regras, normas ou protocolos que se utiliza como meio para chegar a uma certa meta.",
+           "color1": "#f4df6e",
+           "color2": "#f2d54d",
+           "color3": "#eec640",
+           "color4": "#f2d54d",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 445,
+           "name": "Finanças e Economia",
+           "description": "Esta área funcional abrange o estudo das políticas econômicas, da teoria econômica e da tomada de decisões em economia, bem como do planejamento, da direção, organização e controle de atividades e serviços financeiros. Inclui também o controle e o monitoramento dos recursos financeiros de organizações, instituições e indivíduos e a prestação de serviços financeiros em nível empresarial e individual.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/78e5bfc5458e01628f4ae612ee2474e9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=aa529832ec18abaa27eae58c0603d9c20cd2a4e48088f6d48e46edb0aed862a8",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/67806747c0e13701d0639a8e9b1174c0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=061bb204215495de5779ddc11f6f6be6506b6be4ccd34b511a057f02a27ee538"
+       },
+       "blox_profile": {
+           "id": 83,
+           "name": "Teórico",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/216c2af5f1a8c94f7b997e66f505556e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=3ccf72a4faf7dddd944d767444c5d10a18bd661d5c961430aebaa117b316ac6f",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/ebd2ec9cf39fc69119f82d9dfd2c713a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=75a162fbfc93c10460ea37f0b609cb23dd5482feedaeccbe5b744e515ce7080d",
+           "material_icon": null
+       },
+       "blox_attachments": [
+           {
+               "id": 15029,
+               "name": "Impuestos al comercio exterior",
+               "media": "Libros",
+               "kind": "basic",
+               "description": "Impuestos al comercio exterior",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 15030,
+               "name": "Impuestos al comercio exterior",
+               "media": "Libros",
+               "kind": "complementary",
+               "description": "Impuestos al comercio exterior",
+               "file_url": null,
+               "extra_fields": []
+           }
+       ],
+       "blox_classes": [
+           {
+               "id": 28064,
+               "blox_id": 5229,
+               "question": "Marco tributario mexicano",
+               "preparation": "",
+               "context": "Marco tributario mexicano",
+               "order": 1,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 121,
+               "methodology": {
+                   "id": 121,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Problemas (PBL)",
+                   "created_at": "2019-12-17T19:47:15.223-03:00",
+                   "updated_at": "2020-05-13T23:14:51.406-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "compare_arrows"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28065,
+               "blox_id": 5229,
+               "question": "Impuestos corporativos",
+               "preparation": "",
+               "context": "Impuestos corporativos",
+               "order": 2,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 118,
+               "methodology": {
+                   "id": 118,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Colaborativa",
+                   "created_at": "2019-12-17T19:44:35.914-03:00",
+                   "updated_at": "2020-05-13T23:15:02.044-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "group"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28066,
+               "blox_id": 5229,
+               "question": "Impuestos indirectos",
+               "preparation": "",
+               "context": "Impuestos indirectos",
+               "order": 3,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 120,
+               "methodology": {
+                   "id": 120,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Projetos",
+                   "created_at": "2019-12-17T19:46:17.267-03:00",
+                   "updated_at": "2020-05-13T23:15:19.829-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "content_paste"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28067,
+               "blox_id": 5229,
+               "question": "Impuestos sobre sueldos y salarios",
+               "preparation": "",
+               "context": "Impuestos sobre sueldos y salarios",
+               "order": 4,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 28068,
+               "blox_id": 5229,
+               "question": "Impuestos al comercio exterior",
+               "preparation": "",
+               "context": "Impuestos al comercio exterior",
+               "order": 5,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           }
+       ],
+       "competences": [
+           {
+               "id": 299,
+               "name": "Empreendedorismo",
+               "description": "Empreendedorismo é o processo de iniciativa de implementar novos negócios ou mudanças em empresas já existentes. É um termo muito usado no âmbito empresarial e muitas vezes está relacionado com a criação de empresas ou produtos novos, normalmente envolvendo inovações e riscos.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4c67fabb7ce74d78fde67262b5b4bca7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=256a2589abcd52378d3a4580bdad3c6f4d4d9647d4943294a467718a36b0ce5a"
+           }
+       ],
+       "blox_evaluations": [],
+       "blox_template": null
+   },
+   {
+       "id": 13236,
+       "title": "Gestão Pública",
+       "subtitle": "",
+       "objectives": "{\"blocks\":[{\"key\":\"9pqfl\",\"text\":\"asdasdasd\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 20.0,
+       "status": "archived",
+       "modality": "EAD",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": null,
+       "tracks": [],
+       "created_at": "2020-07-29T17:33:52.726-03:00",
+       "updated_at": "2020-08-20T08:14:27.970-03:00",
+       "bibliography_basic": [
+           {
+               "id": 40400,
+               "name": "Kotle, 2003, etc ",
+               "file_data": null,
+               "blox_id": 13236,
+               "created_at": "2020-07-29T17:36:04.722-03:00",
+               "updated_at": "2020-07-29T17:36:04.722-03:00",
+               "kind": "basic",
+               "media": "Livros",
+               "description": "Kotle, 2003, etc ",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
+       ],
+       "bibliography_complementary": [],
+       "allow_ead_content": true,
+       "modality_id": 58,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": 13236,
+       "extra_fields": [
+           {
+               "name": "classes[0].How long the class takes",
+               "value": "saddsasad"
+           },
+           {
+               "name": "Skill",
+               "value": "{\"blocks\":[{\"key\":\"ahvoq\",\"text\":\"saaasd\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+           },
+           {
+               "name": "Habilities",
+               "value": [
+                   "Hab1",
+                   "Hab3"
+               ]
+           }
+       ],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": null,
+       "date_limit_permission": null,
+       "filling_instructions": null,
+       "responsible": {
+           "id": 24145,
+           "name": "Juan Martín Maldacena",
+           "username": "professor",
+           "picture_url": null,
+           "email": "bruno@berchielli.com.br",
+           "shortbio": "",
+           "lattes_curriculum": "",
+           "linked_in": ""
+       },
+       "responsibles": [],
+       "knowledge_area": {
+           "id": 144,
+           "name": "Técnico",
+           "description": "Uma técnica é um procedimento que tem como objetivo a obtenção de um determinado resultado, seja na ciência, na tecnologia, na arte ou em qualquer outra área. Por outras palavras, uma técnica é um conjunto de regras, normas ou protocolos que se utiliza como meio para chegar a uma certa meta.",
+           "color1": "#f4df6e",
+           "color2": "#f2d54d",
+           "color3": "#eec640",
+           "color4": "#f2d54d",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 452,
+           "name": "Gestão Pública",
+           "description": "Esta área funcional alia conhecimentos de administração a tecnologias, técnicas e estratégias adequadas para o bom funcionamento das instituições governamentais, sejam elas municipais, estaduais ou federais, além de conteúdos de regulamentações específicas do segmento.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/966a79006fe21f7d50ff6b0dfd24985f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a2b4516340fb729a0df28db2420a362771ce6e5200eeacd09b079f77ce6c401c",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/2f1285b5ecf0b21535ac0faddb1842ee?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=efbb8914107ac00283bdf82b59071fc8a33b2e2e609e9f5d6b9a8ff0b8e1779b"
+       },
+       "blox_profile": {
+           "id": 81,
+           "name": "Crítico",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/865c60909675e697a5ad09c0b35ad612?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=25fff24268df32d3a4afe591b1e3da6398650db7ccd69c1ad4c905303da32da5",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/3971072866bd75d316c29d27feb66de1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c16a5cd8beebd86012d916b3d2a9eb6926d73b94e96797cd17f4f808863caaaa",
+           "material_icon": null
+       },
+       "blox_attachments": [
+           {
+               "id": 40400,
+               "name": "Kotle, 2003, etc ",
+               "media": "Livros",
+               "kind": "basic",
+               "description": "Kotle, 2003, etc ",
+               "file_url": null,
+               "extra_fields": []
+           }
+       ],
+       "blox_classes": [
+           {
+               "id": 34900,
+               "blox_id": 13236,
+               "question": "Aula 1 - Conhendo Gestão Pública",
+               "preparation": "Ler Cap 5",
+               "context": "{\"blocks\":[{\"key\":\"8tfa1\",\"text\":\"Dialogando sobre o papel do ser humano na criação de programas de \\ncomputador - por exemplo, induzindo debates em sala de aula a respeito \\nda importância de saber programar, quais avanços esse aprendizado pode \\ntrazer e quais cuidados são necessários. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "order": 1,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 121,
+               "methodology": {
+                   "id": 121,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Problemas (PBL)",
+                   "created_at": "2019-12-17T19:47:15.223-03:00",
+                   "updated_at": "2020-05-13T23:14:51.406-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "compare_arrows"
+               },
+               "extra_fields": []
+           }
+       ],
+       "competences": [
+           {
+               "id": 301,
+               "name": "Ética e Cidadania",
+               "description": "Ética e cidadania são dois conceitos fulcrais na sociedade humana. A ética e cidadania estão relacionados com as atitudes dos indivíduos e a forma como estes interagem uns com os outros na sociedade.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/0334495db604c720edef7aa9eaba7a09?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=cfe26f83416a87dc878c8cfd00f8521ae5250268496623b74e9ba59b5026b461"
+           },
+           {
+               "id": 298,
+               "name": "Autoconhecimento",
+               "description": "Uma pessoa consciente de si mesma e de seus pensamentos, consegue identificar suas forças e fraquezas e trabalhar com foco para se desenvolver constantemente. Por isso, na maioria das vezes, buscar o autoconhecimento é o primeiro passo para ter uma vida profissional mais bem sucedida e saudável.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/081c2e871011b71cb313a3492832a16b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=74c35361f7275e8ec037d4e725bec3614bf326f7f3b9e8204e7980c4f797b80d"
+           }
+       ],
+       "blox_evaluations": [
+           {
+               "id": 3149,
+               "name": "Avaliação de Aprendizagem",
+               "content": "{\"blocks\":[{\"key\":\"3qdba\",\"text\":\"- exemplifica com argumentos sólidos situações em que programas/computadores são utilizados em diferentes profissões \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+               "blox_id": 13236,
+               "extra_fields": []
+           }
+       ],
+       "blox_template": {
+           "id": 10,
+           "name": "BTEC framework",
+           "status": "active",
+           "blox_classes": {},
+           "blox_evaluations": {},
+           "blox_bibliographies": {}
+       }
+   },
+   {
+       "id": 13231,
+       "title": "teste",
+       "subtitle": "",
+       "objectives": "{\"blocks\":[{\"key\":\"b7tuc\",\"text\":\"hghg\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 36.0,
+       "status": "archived",
+       "modality": "Presencial",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": null,
+       "tracks": [],
+       "created_at": "2020-07-27T11:02:32.167-03:00",
+       "updated_at": "2020-07-29T15:18:15.314-03:00",
+       "bibliography_basic": [],
+       "bibliography_complementary": [],
+       "allow_ead_content": false,
+       "modality_id": 57,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": 13231,
+       "extra_fields": [
+           {
+               "name": "Texto",
+               "value": "fdf"
+           },
+           {
+               "name": "Caixa de Texto Simples",
+               "value": "fdfd"
+           },
+           {
+               "name": "Markdown",
+               "value": "{\"blocks\":[{\"key\":\"8hc04\",\"text\":\"dfdfdfgfgfgfgfgfgfgfg\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":21,\"style\":\"BOLD\"},{\"offset\":6,\"length\":15,\"style\":\"ITALIC\"},{\"offset\":12,\"length\":9,\"style\":\"UNDERLINE\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+           },
+           {
+               "name": "select",
+               "value": "a"
+           },
+           {
+               "name": "Multiplo Select",
+               "value": [
+                   "b",
+                   "e",
+                   "a"
+               ]
+           },
+           {
+               "name": "Skill",
+               "value": "{\"blocks\":[{\"key\":\"48lia\",\"text\":\"hhg\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"
+           },
+           {
+               "name": "Habilities",
+               "value": [
+                   "Hab1"
+               ]
+           },
+           {
+               "name": "gfgfg",
+               "value": "jhj"
+           },
+           {
+               "name": "fdfd",
+               "value": [
+                   "a"
+               ]
+           }
+       ],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": null,
+       "date_limit_permission": null,
+       "filling_instructions": null,
+       "responsible": {
+           "id": 24145,
+           "name": "Juan Martín Maldacena",
+           "username": "professor",
+           "picture_url": null,
+           "email": "bruno@berchielli.com.br",
+           "shortbio": "",
+           "lattes_curriculum": "",
+           "linked_in": ""
+       },
+       "responsibles": [],
+       "knowledge_area": {
+           "id": 123,
+           "name": "Complementar",
+           "description": "Em teoria dos conjuntos, o complementar de um subconjunto se refere a elementos que não estão no conjunto. Normalmente, o complementar se trata de maneira relativa à um conjunto universo, sendo o conjunto o complementar de formado pelos elementos de que não pertencem",
+           "color1": "#55be54",
+           "color2": "#44b34f",
+           "color3": "#349b4a",
+           "color4": "#44b34f",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 453,
+           "name": "Meio Ambiente e Sustentabilidade",
+           "description": "Esta área funcional trata de conteúdos de ciências ambientais, sustentabilidade, gestão ambiental, responsabilidade e preservação do meio ambiente e saneamento básico.",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/92f42cd2a7ec815b25c3aa060f19c060?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=0cf1d9b62a0741f27ad98fe774ea15db820480e3b65434c1cf254afff0e5bd76",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/33e1b22187e0f745e6ae01ef877bfb17?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=513a829f29d153289e833be2efbcb5ac0855b58c912728b145b7f6c4774bf76c"
+       },
+       "blox_profile": {
+           "id": 81,
+           "name": "Crítico",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/865c60909675e697a5ad09c0b35ad612?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=25fff24268df32d3a4afe591b1e3da6398650db7ccd69c1ad4c905303da32da5",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/3971072866bd75d316c29d27feb66de1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c16a5cd8beebd86012d916b3d2a9eb6926d73b94e96797cd17f4f808863caaaa",
+           "material_icon": null
+       },
+       "blox_attachments": [],
+       "blox_classes": [],
+       "competences": [],
+       "blox_evaluations": [
+           {
+               "id": 3100,
+               "name": "Avaliação de Aprendizagem",
+               "content": "",
+               "blox_id": 13231,
+               "extra_fields": []
+           }
+       ],
+       "blox_template": {
+           "id": 13,
+           "name": "x",
+           "status": "active",
+           "blox_classes": {},
+           "blox_evaluations": {},
+           "blox_bibliographies": {}
+       }
+   },
+   {
+       "id": 13494,
+       "title": "Administração Financeira",
+       "subtitle": "",
+       "objectives": "{\"blocks\":[{\"key\":\"7g43p\",\"text\":\"Objetivo Geral \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":15,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":15,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":15,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":15,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":15,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":15,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}},{\"key\":\"5h1n\",\"text\":\"Avaliar o desempenho econômico-financeiro de empresas mediante a utilização de ferramentas de análise e de gestão do capital de giro estudante deverá ser capaz de desenvolver as seguintes competências: \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":202,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":202,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":202,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":202,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":202,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":202,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"7014p\",\"text\":\"Organizar informações fragmentadas e utilizá-las de forma estratégica a partir das demonstrações contábeis da empresa; \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":119,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":119,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":119,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":119,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":119,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":119,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"emfik\",\"text\":\"Pensar criticamente a dinâmica do capital de giro e fontes de financiamento; \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":77,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":77,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":77,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":77,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":77,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":77,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"4au0a\",\"text\":\"Construir visão sistêmica sobre o desempenho da empresa a partir da análise dos indicadores. \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":93,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":93,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":93,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":93,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":93,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":93,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"bvqad\",\"text\":\"Ementa\",\"type\":\"header-one\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":6,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":6,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":6,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":6,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":6,\"style\":\"color-rgb(48,49,60)\"},{\"offset\":0,\"length\":6,\"style\":\"fontsize-22\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"86fq6\",\"text\":\"Análise Horizontal e Vertical; Análise Horizontal em períodos inflacionários; análise de Índices Financeiros, Liquidez, Endividamento e Estrutura de Capital, Lucratividade e Rentabilidade, Indicadores de Atividade e Giro, Indicadores de Ações e PL para Mercado de Capitais; análise da Estrutura Financeira; a dinâmica do Capital de Giro e Fontes de Financiamento; técnicas de Avaliação e Dimensionamento de Capital de Giro (NCG), Saldo Financeiro (SF) e CCL (CGL); Ciclo Operacional e Financeiro; indicadores especiais setoriais; método DU PONT Simples e Modificado; EBIT e EBITDA – Lucro antes dos juros, IR, depreciação e amortização – Fluxo Econômico (lucro) e de Caixa (Geração de Caixa); EVA – Valor Econômico Adicionado; Gerenciamento de Disponibilidades, Duplicatas a Receber, Estoques e Processos, Contas a Pagar; Decisões de Crédito Credit Scoring, Rating; Financiamento de Capital de Giro: Financiamentos de Curto Prazo: Factoring, Vendor; Securitização, Comercial Paper; Alavancagem Operacional, Financeira e Total.  \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":1028,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":1028,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":1028,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":1028,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":1028,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":1028,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"0px\"}},{\"key\":\"fjq42\",\"text\":\"Recursos Pedagógicos de Ensino e Aprendizagem\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":45,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":45,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":45,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":45,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":45,\"style\":\"color-rgb(48,49,60)\"},{\"offset\":0,\"length\":45,\"style\":\"fontsize-22\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"169h3\",\"text\":\"Aulas expositivo dialogadas; \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":29,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":29,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":29,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":29,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":29,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":29,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"913j0\",\"text\":\"Exercícios de fixação; \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":23,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":23,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":23,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":23,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":23,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":23,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"70qb1\",\"text\":\"Exercícios extraclasse; \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":24,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":24,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":24,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":24,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":24,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":24,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"3o2q\",\"text\":\"Leitura de conteúdos; \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":22,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":22,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":22,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":22,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":22,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":22,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"f0sgt\",\"text\":\"Estudos de Caso.  \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":17,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":17,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":17,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":17,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":17,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":17,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}}],\"entityMap\":{}}",
+       "credits": 2.0,
+       "hours": 72.0,
+       "status": "review",
+       "modality": "Presencial",
+       "url": null,
+       "legacy": false,
+       "video_url": "",
+       "code": null,
+       "tracks": [],
+       "created_at": "2020-10-29T15:21:53.976-03:00",
+       "updated_at": "2021-02-02T21:38:50.366-03:00",
+       "bibliography_basic": [
+           {
+               "id": 51020,
+               "name": "ASSAF NETO, Alexandre. Finanças corporativas e valor. 7 . ed. São Paulo: Atlas, 2014. Rec. eletrônico ISBN 9788522490912. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788522490912>\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.763-03:00",
+               "updated_at": "2020-10-29T15:24:33.763-03:00",
+               "kind": "basic",
+               "media": "Livros",
+               "description": "ASSAF NETO, Alexandre. Finanças corporativas e valor. 7 . ed. São Paulo: Atlas, 2014. Rec. eletrônico ISBN 9788522490912. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788522490912>\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           },
+           {
+               "id": 51022,
+               "name": "ELTON, Edwin J. et al. Moderna teoria de carteiras e análise de investimentos. Rio de Janeiro: Elsevier: Campus, 2012. xx, 725 p. ISBN 9788535245004.\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.780-03:00",
+               "updated_at": "2020-10-29T15:24:33.780-03:00",
+               "kind": "basic",
+               "media": "Livros",
+               "description": "ELTON, Edwin J. et al. Moderna teoria de carteiras e análise de investimentos. Rio de Janeiro: Elsevier: Campus, 2012. xx, 725 p. ISBN 9788535245004.\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           },
+           {
+               "id": 51021,
+               "name": "GITMAN, Lawrence J. Princípios de Administração Financeira - 10ª edição. Editora Pearson, Rec. eletrônico ISBN 9788588639126. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=biblioteca_virtual&isbn=9788588639126 >\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.772-03:00",
+               "updated_at": "2020-10-29T15:24:33.772-03:00",
+               "kind": "basic",
+               "media": "Livros",
+               "description": "GITMAN, Lawrence J. Princípios de Administração Financeira - 10ª edição. Editora Pearson, Rec. eletrônico ISBN 9788588639126. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=biblioteca_virtual&isbn=9788588639126 >\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
+       ],
+       "bibliography_complementary": [
+           {
+               "id": 51023,
+               "name": "IUDÍCIBUS, Sergio de. Contabilidade gerencial : da teoria à prática. 7. ed. Rio de Janeiro: Atlas, 2020. Rec. eletrônico ISBN 9788597024197. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597024197>\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.788-03:00",
+               "updated_at": "2020-10-29T15:24:33.788-03:00",
+               "kind": "complementary",
+               "media": "Livros",
+               "description": "IUDÍCIBUS, Sergio de. Contabilidade gerencial : da teoria à prática. 7. ed. Rio de Janeiro: Atlas, 2020. Rec. eletrônico ISBN 9788597024197. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597024197>\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           },
+           {
+               "id": 51024,
+               "name": "IUDÍCIBUS, Sergio de. Curso de contabilidade para não contadores. 8 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597016932. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597016932>\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.796-03:00",
+               "updated_at": "2020-10-29T15:24:33.796-03:00",
+               "kind": "complementary",
+               "media": "Livros",
+               "description": "IUDÍCIBUS, Sergio de. Curso de contabilidade para não contadores. 8 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597016932. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597016932>\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           },
+           {
+               "id": 51026,
+               "name": "LEMES JÚNIOR, Antônio Barbosa; RIGO, Cláudio Miessa; CHEROBIM, Ana Paula Mussi Szabo. Administração financeira: princípios, fundamentos e práticas brasileiras: aplicações e casos nacionais. 4. ed. Rio de Janeiro: Elsevier, 2016. xxxiv, 620 p. ISBN 9788535238044.\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.812-03:00",
+               "updated_at": "2020-10-29T15:24:33.812-03:00",
+               "kind": "complementary",
+               "media": "Livros",
+               "description": "LEMES JÚNIOR, Antônio Barbosa; RIGO, Cláudio Miessa; CHEROBIM, Ana Paula Mussi Szabo. Administração financeira: princípios, fundamentos e práticas brasileiras: aplicações e casos nacionais. 4. ed. Rio de Janeiro: Elsevier, 2016. xxxiv, 620 p. ISBN 9788535238044.\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           },
+           {
+               "id": 51025,
+               "name": "MARION, José Carlos. Contabilidade empresarial. 18 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597017977. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597017977>\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.804-03:00",
+               "updated_at": "2020-10-29T15:24:33.804-03:00",
+               "kind": "complementary",
+               "media": "Livros",
+               "description": "MARION, José Carlos. Contabilidade empresarial. 18 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597017977. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597017977>\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           },
+           {
+               "id": 51027,
+               "name": "ROSS, Stephen A.; WESTERFIELD, Randolph; JAFFE, Jeffrey F. Administração financeira. São Paulo: Atlas, 2002. 776 p. ISBN 8522429421.\n",
+               "file_data": null,
+               "blox_id": 13494,
+               "created_at": "2020-10-29T15:24:33.820-03:00",
+               "updated_at": "2020-10-29T15:24:33.820-03:00",
+               "kind": "complementary",
+               "media": "Livros",
+               "description": "ROSS, Stephen A.; WESTERFIELD, Randolph; JAFFE, Jeffrey F. Administração financeira. São Paulo: Atlas, 2002. 776 p. ISBN 8522429421.\n",
+               "bibliography_type_id": 54,
+               "extra_fields": []
+           }
+       ],
+       "allow_ead_content": false,
+       "modality_id": 57,
+       "pages": null,
+       "total": null,
+       "program": null,
+       "pedagogic_resources": null,
+       "external_id": 13494,
+       "extra_fields": [],
+       "level_id": null,
+       "teaching_approach_id": null,
+       "commercial_title": null,
+       "points": null,
+       "date_limit_edition": null,
+       "date_limit_permission": null,
+       "filling_instructions": null,
+       "responsible": {
+           "id": 70001,
+           "name": "Antonio Visconde",
+           "username": "antonio",
+           "picture_url": null,
+           "email": "mauriciorsalles@gmail.com",
+           "shortbio": null,
+           "lattes_curriculum": null,
+           "linked_in": null
+       },
+       "responsibles": [],
+       "knowledge_area": {
+           "id": 122,
+           "name": "Básico",
+           "description": "Gerais são aqueles que são comuns a formação de todos os candidatos, ainda que eles incluam várias áreas.",
+           "color1": "#f82637",
+           "color2": "#d31f31",
+           "color3": "#af1c31",
+           "color4": "#d31f31",
+           "icon_url": null
+       },
+       "functional_area": {
+           "id": 533,
+           "name": "Gerenciamento e Administração",
+           "description": "Esta área funcional trata de estudos e teorias relacionadas à administração e a modelos de gestão de processos e projetos. Serão abordados também o planejamento, direção e operação de funções e atividades de organizações e instituições. ",
+           "icon": null,
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/38db01072aebbacc8b91382ec6224b4a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=3788ef27f57f1879b9db6257b4963b8143088e093cb5c01091837a6f9b7d3e26",
+           "icon_white_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/ba6f113a33d8d68c7a25a891a8e3e774?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c99b00e50cbb6712422284e4e08fc5407bd593bc75d61d5812ca72ec7df55ef2"
+       },
+       "blox_profile": {
+           "id": 82,
+           "name": "Prático",
+           "description": "",
+           "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/2e78762def1d6ee8552bb35b2575a42d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7d8dfebca1f47a4c0869a58f5c539168e4b66035395b24a2c7f0eb706da379ff",
+           "icon_dark_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/637ea2c63ce799e49d181a411dd9d10f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=821ba2c7a68859064063da8afbf4ca29697c5ef05f9df37ef4508ed06392cdea",
+           "material_icon": null
+       },
+       "blox_attachments": [
+           {
+               "id": 51020,
+               "name": "ASSAF NETO, Alexandre. Finanças corporativas e valor. 7 . ed. São Paulo: Atlas, 2014. Rec. eletrônico ISBN 9788522490912. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788522490912>\n",
+               "media": "Livros",
+               "kind": "basic",
+               "description": "ASSAF NETO, Alexandre. Finanças corporativas e valor. 7 . ed. São Paulo: Atlas, 2014. Rec. eletrônico ISBN 9788522490912. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788522490912>\n",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 51022,
+               "name": "ELTON, Edwin J. et al. Moderna teoria de carteiras e análise de investimentos. Rio de Janeiro: Elsevier: Campus, 2012. xx, 725 p. ISBN 9788535245004.\n",
+               "media": "Livros",
+               "kind": "basic",
+               "description": "ELTON, Edwin J. et al. Moderna teoria de carteiras e análise de investimentos. Rio de Janeiro: Elsevier: Campus, 2012. xx, 725 p. ISBN 9788535245004.\n",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 51021,
+               "name": "GITMAN, Lawrence J. Princípios de Administração Financeira - 10ª edição. Editora Pearson, Rec. eletrônico ISBN 9788588639126. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=biblioteca_virtual&isbn=9788588639126 >\n",
+               "media": "Livros",
+               "kind": "basic",
+               "description": "GITMAN, Lawrence J. Princípios de Administração Financeira - 10ª edição. Editora Pearson, Rec. eletrônico ISBN 9788588639126. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=biblioteca_virtual&isbn=9788588639126 >\n",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 51023,
+               "name": "IUDÍCIBUS, Sergio de. Contabilidade gerencial : da teoria à prática. 7. ed. Rio de Janeiro: Atlas, 2020. Rec. eletrônico ISBN 9788597024197. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597024197>\n",
+               "media": "Livros",
+               "kind": "complementary",
+               "description": "IUDÍCIBUS, Sergio de. Contabilidade gerencial : da teoria à prática. 7. ed. Rio de Janeiro: Atlas, 2020. Rec. eletrônico ISBN 9788597024197. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597024197>\n",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 51024,
+               "name": "IUDÍCIBUS, Sergio de. Curso de contabilidade para não contadores. 8 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597016932. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597016932>\n",
+               "media": "Livros",
+               "kind": "complementary",
+               "description": "IUDÍCIBUS, Sergio de. Curso de contabilidade para não contadores. 8 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597016932. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597016932>\n",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 51026,
+               "name": "LEMES JÚNIOR, Antônio Barbosa; RIGO, Cláudio Miessa; CHEROBIM, Ana Paula Mussi Szabo. Administração financeira: princípios, fundamentos e práticas brasileiras: aplicações e casos nacionais. 4. ed. Rio de Janeiro: Elsevier, 2016. xxxiv, 620 p. ISBN 9788535238044.\n",
+               "media": "Livros",
+               "kind": "complementary",
+               "description": "LEMES JÚNIOR, Antônio Barbosa; RIGO, Cláudio Miessa; CHEROBIM, Ana Paula Mussi Szabo. Administração financeira: princípios, fundamentos e práticas brasileiras: aplicações e casos nacionais. 4. ed. Rio de Janeiro: Elsevier, 2016. xxxiv, 620 p. ISBN 9788535238044.\n",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 51025,
+               "name": "MARION, José Carlos. Contabilidade empresarial. 18 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597017977. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597017977>\n",
+               "media": "Livros",
+               "kind": "complementary",
+               "description": "MARION, José Carlos. Contabilidade empresarial. 18 . ed. Rio de Janeiro: Atlas, 2018. Rec. eletrônico ISBN 9788597017977. Disponível em: <http://portal.espm.br/paginas/redirect?aluno=5636&professor=9057&funcionario=5629&fonte=minha_biblioteca&isbn=9788597017977>\n",
+               "file_url": null,
+               "extra_fields": []
+           },
+           {
+               "id": 51027,
+               "name": "ROSS, Stephen A.; WESTERFIELD, Randolph; JAFFE, Jeffrey F. Administração financeira. São Paulo: Atlas, 2002. 776 p. ISBN 8522429421.\n",
+               "media": "Livros",
+               "kind": "complementary",
+               "description": "ROSS, Stephen A.; WESTERFIELD, Randolph; JAFFE, Jeffrey F. Administração financeira. São Paulo: Atlas, 2002. 776 p. ISBN 8522429421.\n",
+               "file_url": null,
+               "extra_fields": []
+           }
+       ],
+       "blox_classes": [
+           {
+               "id": 35918,
+               "blox_id": 13494,
+               "question": "Análise vertical, horizontal e indicadores",
+               "preparation": "",
+               "context": "{\"blocks\":[{\"key\":\"84jk5\",\"text\":\"Compreender as ferramentas de análise das Demonstrações Contábeis. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":67,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":67,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":67,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":67,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":67,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":67,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}},{\"key\":\"duisr\",\"text\":\"\\n \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}}],\"entityMap\":{}}",
+               "order": 1,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 121,
+               "methodology": {
+                   "id": 121,
+                   "institution_id": 22,
+                   "name": "Aprendizagem Baseada em Problemas (PBL)",
+                   "created_at": "2019-12-17T19:47:15.223-03:00",
+                   "updated_at": "2020-05-13T23:14:51.406-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "compare_arrows"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 35919,
+               "blox_id": 13494,
+               "question": "Análise e estrutura financeira",
+               "preparation": "",
+               "context": "{\"blocks\":[{\"key\":\"6np8t\",\"text\":\"Dimensionar a situação do capital de giro e fontes de financiamento de curto prazo. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":84,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":84,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":84,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":84,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":84,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":84,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}},{\"key\":\"1m1sm\",\"text\":\"\\n \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}}],\"entityMap\":{}}",
+               "order": 2,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           },
+           {
+               "id": 35920,
+               "blox_id": 13494,
+               "question": "Indicadores especiais e fontes de financiamento",
+               "preparation": "",
+               "context": "{\"blocks\":[{\"key\":\"crt2s\",\"text\":\"Avaliar o desempenho de empresas com ferramentas de gestão do capital de giro. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":79,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":79,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":79,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":79,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":79,\"style\":\"bgcolor-rgba(255,255,255,0)\"},{\"offset\":0,\"length\":79,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}},{\"key\":\"bcais\",\"text\":\"\\n \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"text-align\":\"start\"}}],\"entityMap\":{}}",
+               "order": 3,
+               "blox_class_attachments_attributes": [],
+               "methodology_id": 119,
+               "methodology": {
+                   "id": 119,
+                   "institution_id": 22,
+                   "name": "Estudos de Caso",
+                   "created_at": "2019-12-17T19:45:15.056-03:00",
+                   "updated_at": "2020-05-13T23:15:28.713-03:00",
+                   "icon_data": null,
+                   "external_data": {},
+                   "material_icon": "chrome_reader_mode"
+               },
+               "extra_fields": []
+           }
+       ],
+       "competences": [
+           {
+               "id": 299,
+               "name": "Empreendedorismo",
+               "description": "Empreendedorismo é o processo de iniciativa de implementar novos negócios ou mudanças em empresas já existentes. É um termo muito usado no âmbito empresarial e muitas vezes está relacionado com a criação de empresas ou produtos novos, normalmente envolvendo inovações e riscos.",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/4c67fabb7ce74d78fde67262b5b4bca7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=256a2589abcd52378d3a4580bdad3c6f4d4d9647d4943294a467718a36b0ce5a"
+           },
+           {
+               "id": 318,
+               "name": "Pensamento científico e crítico",
+               "description": "",
+               "icon_url": "https://bloxstaging.s3.sa-east-1.amazonaws.com/store/b978f8f5e39d3aaa967db314f209a441?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARWJ2S7DWNIGUKLV4%2F20210305%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210305T130303Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=cb16a2f9c93ed29459fedb60fc08da777c69a8532d3593c0bb4ebc73a9ed89bf"
+           }
+       ],
+       "blox_evaluations": [
+           {
+               "id": 4464,
+               "name": "Avaliação de Aprendizagem",
+               "content": "{\"blocks\":[{\"key\":\"dlobr\",\"text\":\"Provas - 70% \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":13,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":13,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":13,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":13,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":13,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}},{\"key\":\"ddcpp\",\"text\":\"Trabalhos - 30%  \",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":16,\"style\":\"color-rgba(0,0,0,0.87)\"},{\"offset\":0,\"length\":16,\"style\":\"bgcolor-rgb(255,255,255)\"},{\"offset\":0,\"length\":16,\"style\":\"fontsize-15.2\"},{\"offset\":0,\"length\":16,\"style\":\"fontfamily-Roboto\"},{\"offset\":0,\"length\":16,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{\"margin-left\":\"1.5em\"}}],\"entityMap\":{}}",
+               "blox_id": 13494,
+               "extra_fields": []
+           }
+       ],
+       "blox_template": null
+   }
+]
